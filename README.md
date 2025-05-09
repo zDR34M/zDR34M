@@ -20,7 +20,7 @@ I am a dedicated and enthusiastic learner, currently studying DevOps with a focu
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%" >
 
 - 🖥️ I’m currently learning DevOps.  
   
@@ -66,6 +66,3 @@ I am a dedicated and enthusiastic learner, currently studying DevOps with a focu
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
