@@ -14,8 +14,8 @@
 
 
 
-### Glad to see you here!  
-I am a dedicated and enthusiastic learner, currently studying DevOps with a focus on gaining hands-on experience in the field. With a strong foundation in computer science, I am eager to apply my skills to help improve workflows, automation, and infrastructure management. My passion for technology drives me to continuously learn and grow, and I'm excited to explore the DevOps field further.  
+### Hi, I’m Tareq Suliman 👋
+Aspiring Software Engineer & DevOps Engineer with a passion for building creative web apps, interactive projects, and cloud-based solutions.
   
 
 <br/>  
